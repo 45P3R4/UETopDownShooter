@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"X:\\UEPROJ\\UETopDownShooter\\TopDownShooter\\Source\\TopDownShooter\\TopDownShooter.Build.cs",
-		"X:\\UEPROJ\\UETopDownShooter\\TopDownShooter\\Source\\TopDownShooter.Target.cs",
-		"X:\\UEPROJ\\UETopDownShooter\\TopDownShooter\\Source\\TopDownShooterEditor.Target.cs"
-	],
-	"EngineVersion": "5.5.0"
-}
